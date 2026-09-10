@@ -48,10 +48,10 @@
   "displayLanguage" : "en",
   "expectedImpact" : "Road safety, access, rural infrastructure",
   "affectedPeople" : 0,
-  "status" : "PENDING_VALIDATION",
+  "status" : "REJECTED",
   "isDemoData" : true,
   "createdAt" : "2026-09-09T10:00:00Z",
-  "updatedAt" : "2026-09-09T10:00:00Z"
+  "updatedAt" : "2026-09-10T06:20:41.197504700Z"
 }, {
   "id" : "demo-agri",
   "userId" : "user-demo",
@@ -71,10 +71,10 @@
   "displayLanguage" : "en",
   "expectedImpact" : "Irrigation, agriculture productivity",
   "affectedPeople" : 0,
-  "status" : "PENDING_VALIDATION",
+  "status" : "REJECTED",
   "isDemoData" : true,
   "createdAt" : "2026-09-09T10:00:00Z",
-  "updatedAt" : "2026-09-09T10:00:00Z"
+  "updatedAt" : "2026-09-10T06:20:42.555950800Z"
 }, {
   "id" : "demo-health",
   "userId" : "user-demo",
