@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ind-01",
+    "name": "Jharkhand Civic Technology Partner",
+    "type": "Technology partner",
+    "description": "Demo industry partner for technology, testing and deployment support.",
+    "expertise": [
+      "Technology",
+      "Testing",
+      "Deployment support"
+    ],
+    "fundingCapacity": "MEDIUM",
+    "active": true
+  },
+  {
+    "id": "ind-02",
+    "name": "Community Infrastructure CSR Partner",
+    "type": "CSR partner",
+    "description": "Demo CSR partner for community infrastructure support.",
+    "expertise": [
+      "CSR",
+      "Infrastructure",
+      "Funding"
+    ],
+    "fundingCapacity": "HIGH",
+    "active": true
+  }
+]

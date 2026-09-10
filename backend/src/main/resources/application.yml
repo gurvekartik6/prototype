@@ -1,0 +1,36 @@
+spring:
+  application:
+    name: jharkhand-civic-platform
+
+  jackson:
+    default-property-inclusion: non_null
+
+server:
+  port: ${PORT:8080}
+
+  error:
+    include-message: never
+
+app:
+  data-dir: ${DATA_DIR:./data}
+
+  frontend-url: ${FRONTEND_URL:http://localhost:5173}
+
+  jwt-secret: ${JWT_SECRET:JharkhandCivicPlatform-Local-Development-Secret-2026-Do-Not-Use-In-Production}
+
+  jwt-expiration-hours: ${JWT_EXPIRATION_HOURS:12}
+
+  xai:
+    api-key: ${XAI_API_KEY:}
+    model: ${XAI_MODEL:grok-4.6}
+    base-url: ${XAI_BASE_URL:https://api.x.ai/v1}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html

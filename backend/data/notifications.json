@@ -1,0 +1,29 @@
+[
+  {
+    "id": "n-001",
+    "userId": "user-demo",
+    "role": "USER",
+    "title": "Problem validated",
+    "message": "Your problem has been validated and routed for action.",
+    "read": false,
+    "createdAt": "2026-09-09T12:00:00Z"
+  },
+  {
+    "id": "n-002",
+    "userId": "admin-demo",
+    "role": "ADMIN",
+    "title": "High-priority problem requires validation",
+    "message": "A high-priority problem requires validation.",
+    "read": false,
+    "createdAt": "2026-09-09T12:00:00Z"
+  },
+  {
+    "id": "n-003",
+    "userId": "industry-demo",
+    "role": "INDUSTRY",
+    "title": "Collaboration opportunity",
+    "message": "A new collaboration opportunity is available.",
+    "read": false,
+    "createdAt": "2026-09-09T12:00:00Z"
+  }
+]

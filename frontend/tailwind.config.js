@@ -1,0 +1,1 @@
+export default {content:['./index.html','./src/**/*.{ts,tsx}'],theme:{extend:{colors:{jharkhand:{50:'#f3fbf6',100:'#e5f6ea',200:'#c8ecd3',300:'#9edbb0',500:'#3aa76d',600:'#248957',700:'#176a45',800:'#12553a',900:'#0c3d2a'},navy:'#17324d'}}},plugins:[]}

@@ -1,0 +1,3 @@
+package in.jharkhand.civic.service;
+import in.jharkhand.civic.repository.JsonStore; import org.springframework.stereotype.Service; import java.util.*;
+@Service public class ReferenceService {private final JsonStore s;public ReferenceService(JsonStore s){this.s=s;} public List<Map<String,Object>> departments(){return s.read("departments.json");} public List<Map<String,Object>> institutions(){List<Map<String,Object>> a=new ArrayList<>();for(int i=1;i<=4;i++)a.addAll(s.read("institutions-tier"+i+".json"));return a;} public Map<String,Object> department(String id){return s.find("departments.json",id);} public Map<String,Object> institution(String id){return institutions().stream().filter(x->id.equals(String.valueOf(x.get("id")))).findFirst().orElse(null);} }

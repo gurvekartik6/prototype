@@ -1,0 +1,31 @@
+[
+  {
+    "id": "project-demo-01",
+    "projectId": "project-demo-01",
+    "problemId": "demo-water",
+    "departmentId": "dep-06",
+    "institutionId": "tier1-01",
+    "industryPartnerIds": [
+      "ind-01"
+    ],
+    "title": "Community Water Quality Monitoring Pilot",
+    "objectives": [
+      "Assess water quality risks",
+      "Prototype monitoring workflow",
+      "Validate field usability"
+    ],
+    "scope": "Prototype and field test a community water quality monitoring workflow.",
+    "team": [
+      "dept-demo",
+      "inst-demo"
+    ],
+    "budget": 500000,
+    "timeline": "6 months",
+    "status": "FIELD_TESTING",
+    "expectedImpact": {
+      "peopleBenefited": 1000
+    },
+    "actualImpact": {},
+    "createdAt": "2026-08-15T10:00:00Z"
+  }
+]

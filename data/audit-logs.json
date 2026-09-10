@@ -1,0 +1,120 @@
+[ {
+  "id" : "audit-7dd07431",
+  "actorId" : "dept-demo",
+  "actorRole" : "DEPARTMENT",
+  "action" : "DEPARTMENT_ACCEPTED_PROBLEM",
+  "entityType" : "PROBLEM",
+  "entityId" : "demo-water",
+  "previousValue" : {
+    "id" : "demo-water",
+    "userId" : "user-demo",
+    "title" : "Contaminated water near mining area",
+    "description" : "Village near a mining area is facing contaminated water.",
+    "category" : "Water",
+    "location" : {
+      "district" : "Dhanbad",
+      "city" : "Dhanbad",
+      "block" : "",
+      "village" : ""
+    },
+    "language" : "en",
+    "originalLanguage" : "en",
+    "originalText" : "Village near a mining area is facing contaminated water.",
+    "normalizedText" : "Village near a mining area is facing contaminated water.",
+    "displayLanguage" : "en",
+    "expectedImpact" : "Water quality, mining impact, public health",
+    "affectedPeople" : 0,
+    "status" : "FIELD_TESTING",
+    "isDemoData" : true,
+    "createdAt" : "2026-09-09T10:00:00Z",
+    "updatedAt" : "2026-09-09T10:00:00Z",
+    "assignedDepartmentId" : "dep-06",
+    "assignedInstitutionId" : "tier1-01",
+    "aiStatus" : "COMPLETED",
+    "duplicateSignals" : {
+      "isPotentialDuplicate" : false,
+      "similarProblems" : [ ],
+      "confidence" : 0
+    }
+  },
+  "newValue" : {
+    "id" : "demo-water",
+    "userId" : "user-demo",
+    "title" : "Contaminated water near mining area",
+    "description" : "Village near a mining area is facing contaminated water.",
+    "category" : "Water",
+    "location" : {
+      "district" : "Dhanbad",
+      "city" : "Dhanbad",
+      "block" : "",
+      "village" : ""
+    },
+    "language" : "en",
+    "originalLanguage" : "en",
+    "originalText" : "Village near a mining area is facing contaminated water.",
+    "normalizedText" : "Village near a mining area is facing contaminated water.",
+    "displayLanguage" : "en",
+    "expectedImpact" : "Water quality, mining impact, public health",
+    "affectedPeople" : 0,
+    "status" : "ACCEPTED",
+    "isDemoData" : true,
+    "createdAt" : "2026-09-09T10:00:00Z",
+    "updatedAt" : "2026-09-10T06:13:54.150729700Z",
+    "assignedDepartmentId" : "dep-06",
+    "assignedInstitutionId" : "tier1-01",
+    "aiStatus" : "COMPLETED",
+    "duplicateSignals" : {
+      "isPotentialDuplicate" : false,
+      "similarProblems" : [ ],
+      "confidence" : 0
+    }
+  },
+  "timestamp" : "2026-09-10T06:13:54.173711300Z"
+}, {
+  "id" : "audit-65f8927b",
+  "actorId" : "dept-demo",
+  "actorRole" : "DEPARTMENT",
+  "action" : "PROJECT_CREATED",
+  "entityType" : "PROJECT",
+  "entityId" : "project-bd772939",
+  "newValue" : {
+    "problemId" : "demo-water",
+    "title" : "Solution project for Contaminated water near mining area",
+    "departmentId" : "dep-06",
+    "status" : "COLLABORATION_OPEN",
+    "id" : "project-bd772939",
+    "projectId" : "project-bd772939",
+    "industryPartnerIds" : [ ],
+    "milestones" : [ ],
+    "expectedImpact" : { },
+    "actualImpact" : { },
+    "createdAt" : "2026-09-10T06:13:56.247239500Z"
+  },
+  "timestamp" : "2026-09-10T06:13:56.300239600Z"
+}, {
+  "id" : "audit-c5eee809",
+  "actorId" : "admin-demo",
+  "actorRole" : "ADMIN",
+  "action" : "ADMIN_UPDATED_USER",
+  "entityType" : "USER",
+  "entityId" : "user-demo",
+  "previousValue" : {
+    "id" : "user-demo",
+    "name" : "Demo Citizen",
+    "email" : "user@jharkhand.gov.demo",
+    "passwordHash" : "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "role" : "USER",
+    "phone" : "",
+    "civicPoints" : 120
+  },
+  "newValue" : {
+    "id" : "user-demo",
+    "name" : "Demo Citizen",
+    "email" : "user@jharkhand.gov.demo",
+    "passwordHash" : "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "role" : "USER",
+    "phone" : "",
+    "civicPoints" : 120
+  },
+  "timestamp" : "2026-09-10T06:14:40.291021800Z"
+} ]

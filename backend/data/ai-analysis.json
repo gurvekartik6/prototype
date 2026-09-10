@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ai-demo-water",
+    "problemId": "demo-water",
+    "summary": "Village near a mining area is facing contaminated water, requiring water-quality and environmental assessment with mining-related expertise.",
+    "problemType": "Water contamination",
+    "domain": "Environment / Water / Mining-related",
+    "subDomain": "Community water quality",
+    "keywords": [
+      "water",
+      "contamination",
+      "mining",
+      "environment"
+    ],
+    "urgency": "HIGH",
+    "severity": "HIGH",
+    "affectedPopulation": "Village community",
+    "estimatedImpact": "Potential community water and public-health impact",
+    "requiredExpertise": [
+      "Environmental Engineering",
+      "Water Management",
+      "Mining Engineering",
+      "Applied Geology"
+    ],
+    "possibleDepartments": [
+      "dep-06",
+      "dep-18",
+      "dep-20"
+    ],
+    "possibleInstitutionExpertise": [
+      "Environmental Engineering",
+      "Water Management",
+      "Mining Engineering",
+      "Applied Geology"
+    ],
+    "duplicateSignals": [],
+    "recommendedPriority": "HIGH",
+    "reasoning": "Structured advisory analysis for the supplied demonstration problem.",
+    "aiProvider": "xAI Grok",
+    "model": "grok-4.6",
+    "humanApproved": true,
+    "humanDecision": "APPROVE",
+    "reviewedBy": "admin-demo",
+    "reviewedAt": "2026-08-15T10:15:00Z",
+    "generatedAt": "2026-08-15T10:05:00Z"
+  }
+]

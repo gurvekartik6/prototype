@@ -1,0 +1,558 @@
+[
+  {
+    "id": "tier4-01",
+    "name": "Government Polytechnic Adityapur, Seraikela-Kharsawan",
+    "tier": 4,
+    "location": "Seraikela-Kharsawan",
+    "district": "Seraikela-Kharsawan",
+    "type": "Higher Education Institution",
+    "description": "Government Polytechnic Adityapur, Seraikela -Kharsawan is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-02",
+    "name": "Government Polytechnic Bhaga, Dhanbad",
+    "tier": 4,
+    "location": "Dhanbad",
+    "district": "Dhanbad",
+    "type": "Higher Education Institution",
+    "description": "Government Polytechnic Bhaga, Dhanbad is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Mining Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Civil Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Mining Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Civil Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-03",
+    "name": "Government Polytechnic Kharsawan, Seraikela-Kharsawan",
+    "tier": 4,
+    "location": "Seraikela-Kharsawan",
+    "district": "Seraikela-Kharsawan",
+    "type": "Higher Education Institution",
+    "description": "Government Polytechnic Kharsawan, Seraikela -Kharsawan is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-04",
+    "name": "Government Polytechnic Koderma, Koderma",
+    "tier": 4,
+    "location": "Koderma",
+    "district": "Koderma",
+    "type": "Higher Education Institution",
+    "description": "Government Polytechnic Koderma, Koderma is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-05",
+    "name": "Government Polytechnic Khunti, Khunti",
+    "tier": 4,
+    "location": "Khunti",
+    "district": "Khunti",
+    "type": "Higher Education Institution",
+    "description": "Government Polytechnic Khunti, Khunti is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-06",
+    "name": "Government Polytechnic Jamtara, Jamtara",
+    "tier": 4,
+    "location": "Jamtara",
+    "district": "Jamtara",
+    "type": "Higher Education Institution",
+    "description": "Government Polytechnic Jamtara, Jamtara is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-07",
+    "name": "Government Women's Polytechnic Ranchi, Ranchi",
+    "tier": 4,
+    "location": "Ranchi",
+    "district": "Ranchi",
+    "type": "Higher Education Institution",
+    "description": "Government Women's Polytechnic Ranchi, Ranchi is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science / IT",
+      "Electrical Engineering",
+      "Electronics Engineering",
+      "Civil Engineering",
+      "Mechanical Engineering"
+    ],
+    "researchCapabilities": [
+      "Computer Science / IT",
+      "Electrical Engineering",
+      "Electronics Engineering",
+      "Civil Engineering",
+      "Mechanical Engineering"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-08",
+    "name": "Government Women's Polytechnic Bokaro, Bokaro",
+    "tier": 4,
+    "location": "Bokaro",
+    "district": "Bokaro",
+    "type": "Higher Education Institution",
+    "description": "Government Women's Polytechnic Bokaro, Bokaro is a Jharkhand higher-education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science / IT",
+      "Electrical Engineering",
+      "Electronics Engineering",
+      "Civil Engineering",
+      "Mechanical Engineering"
+    ],
+    "researchCapabilities": [
+      "Computer Science / IT",
+      "Electrical Engineering",
+      "Electronics Engineering",
+      "Civil Engineering",
+      "Mechanical Engineering"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-09",
+    "name": "St. Xavier's College, Ranchi",
+    "tier": 4,
+    "location": "Ranchi",
+    "district": "Ranchi",
+    "type": "Higher Education Institution",
+    "description": "St. Xavier's College, Ranchi is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Economics",
+      "Commerce",
+      "Management",
+      "Environmental Studies"
+    ],
+    "researchCapabilities": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Economics",
+      "Commerce",
+      "Management",
+      "Environmental Studies"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-10",
+    "name": "Marwari College, Ranchi",
+    "tier": 4,
+    "location": "Ranchi",
+    "district": "Ranchi",
+    "type": "Higher Education Institution",
+    "description": "Marwari College, Ranchi is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science",
+      "Information Technology",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Management",
+      "Economics"
+    ],
+    "researchCapabilities": [
+      "Computer Science",
+      "Information Technology",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Management",
+      "Economics"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-11",
+    "name": "Ranchi Women's College, Ranchi",
+    "tier": 4,
+    "location": "Ranchi",
+    "district": "Ranchi",
+    "type": "Higher Education Institution",
+    "description": "Ranchi Women's College, Ranchi is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Education",
+      "Social Sciences"
+    ],
+    "researchCapabilities": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Education",
+      "Social Sciences"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-12",
+    "name": "Doranda College, Ranchi",
+    "tier": 4,
+    "location": "Ranchi",
+    "district": "Ranchi",
+    "type": "Higher Education Institution",
+    "description": "Doranda College, Ranchi is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences",
+      "Management"
+    ],
+    "researchCapabilities": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences",
+      "Management"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-13",
+    "name": "Jamshedpur Cooperative College, East Singhbhum",
+    "tier": 4,
+    "location": "East Singhbhum",
+    "district": "East Singhbhum",
+    "type": "Higher Education Institution",
+    "description": "Jamshedpur Cooperative College, East Singhbhum is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Management",
+      "Economics",
+      "Social Sciences"
+    ],
+    "researchCapabilities": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Management",
+      "Economics",
+      "Social Sciences"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-14",
+    "name": "Graduate School College for Women, Jamshedpur",
+    "tier": 4,
+    "location": "Jamshedpur",
+    "district": "Jamshedpur",
+    "type": "Higher Education Institution",
+    "description": "Graduate School College for Women, Jamshedpur is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Education",
+      "Economics",
+      "Social Sciences"
+    ],
+    "researchCapabilities": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Education",
+      "Economics",
+      "Social Sciences"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-15",
+    "name": "Lal Bahadur Shastri Memorial College, Jamshedpur",
+    "tier": 4,
+    "location": "Jamshedpur",
+    "district": "Jamshedpur",
+    "type": "Higher Education Institution",
+    "description": "Lal Bahadur Shastri Memorial College, Jamshedpur is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences",
+      "Education"
+    ],
+    "researchCapabilities": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences",
+      "Education"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-16",
+    "name": "Sanjay Gandhi Memorial College, Ranchi",
+    "tier": 4,
+    "location": "Ranchi",
+    "district": "Ranchi",
+    "type": "Higher Education Institution",
+    "description": "Sanjay Gandhi Memorial College, Ranchi is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences"
+    ],
+    "researchCapabilities": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-17",
+    "name": "Gossner College, Ranchi",
+    "tier": 4,
+    "location": "Ranchi",
+    "district": "Ranchi",
+    "type": "Higher Education Institution",
+    "description": "Gossner College, Ranchi is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences",
+      "Environmental Studies"
+    ],
+    "researchCapabilities": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences",
+      "Environmental Studies"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-18",
+    "name": "S.S. Memorial College, Ranchi",
+    "tier": 4,
+    "location": "Ranchi",
+    "district": "Ranchi",
+    "type": "Higher Education Institution",
+    "description": "S.S. Memorial College, Ranchi is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences"
+    ],
+    "researchCapabilities": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-19",
+    "name": "R.L.S.Y. College, Ranchi",
+    "tier": 4,
+    "location": "Ranchi",
+    "district": "Ranchi",
+    "type": "Higher Education Institution",
+    "description": "R.L.S.Y. College, Ranchi is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences"
+    ],
+    "researchCapabilities": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier4-20",
+    "name": "Yogoda Satsanga Mahavidyalaya, Ranchi",
+    "tier": 4,
+    "location": "Ranchi",
+    "district": "Ranchi",
+    "type": "Higher Education Institution",
+    "description": "Yogoda Satsanga Mahavidyalaya, Ranchi is a Jharkhand higher -education institution with academic capability relevant to local technical, social, economic, educational, and community problems.",
+    "expertise": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences",
+      "Education"
+    ],
+    "researchCapabilities": [
+      "Computer Science",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Commerce",
+      "Economics",
+      "Social Sciences",
+      "Education"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  }
+]

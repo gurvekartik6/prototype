@@ -1,0 +1,1 @@
+import{api}from'./api';export const projectService={list:()=>api.get('/projects'),get:(id:string)=>api.get(`/projects/${id}`),milestones:(id:string)=>api.get(`/projects/${id}/milestones`),update:(id:string,data:any)=>api.put(`/projects/${id}`,data)};

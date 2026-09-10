@@ -1,0 +1,4 @@
+[
+  {"id":"platform","allowRegistration":true,"maintenanceMode":false,"defaultLanguage":"en","maxUploadMb":10,"aiEnabled":true},
+  {"id":"routing","tierWeights":{"1":0.25,"2":0.20,"3":0.15,"4":0.10},"industryInitialRouting":false}
+]

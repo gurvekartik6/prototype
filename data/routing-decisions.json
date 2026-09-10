@@ -1,0 +1,66 @@
+[
+  {
+    "id": "route-demo-water",
+    "problemId": "demo-water",
+    "approved": true,
+    "approvedBy": "admin-demo",
+    "approvedAt": "2026-08-15T10:20:00Z",
+    "industryInvolved": false,
+    "generatedAt": "2026-08-15T10:18:00Z",
+    "departments": [
+      {
+        "departmentId": "dep-06",
+        "name": "Department of Drinking Water and Sanitation",
+        "score": 0.96,
+        "matchingReasons": [
+          "Water problem aligns with department responsibility",
+          "Required water-management expertise aligns with department scope",
+          "High-priority community service issue"
+        ]
+      },
+      {
+        "departmentId": "dep-18",
+        "name": "Department of Forest, Environment & Climate Change",
+        "score": 0.88,
+        "matchingReasons": [
+          "Environmental impact aligns with department scope",
+          "Required environmental expertise is relevant"
+        ]
+      },
+      {
+        "departmentId": "dep-20",
+        "name": "Department of Mines & Geology",
+        "score": 0.84,
+        "matchingReasons": [
+          "Mining context is directly relevant",
+          "Geology-related expertise is relevant"
+        ]
+      }
+    ],
+    "institutions": [
+      {
+        "institutionId": "tier1-01",
+        "name": "IIT (ISM) Dhanbad",
+        "tier": 1,
+        "score": 0.93,
+        "matchingReasons": [
+          "Strong Environmental Engineering capability",
+          "Strong Mining Engineering capability",
+          "Applied Geology capability",
+          "Relevant Dhanbad location"
+        ]
+      },
+      {
+        "institutionId": "tier1-11",
+        "name": "Central University of Jharkhand, Ranchi",
+        "tier": 1,
+        "score": 0.79,
+        "matchingReasons": [
+          "Environmental Science capability",
+          "Relevant scientific research capability",
+          "Tier contributes a limited matching bonus"
+        ]
+      }
+    ]
+  }
+]

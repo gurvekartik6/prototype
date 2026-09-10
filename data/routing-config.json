@@ -1,0 +1,16 @@
+{
+  "weights": {
+    "expertise": 0.55,
+    "domain": 0.15,
+    "location": 0.1,
+    "capacity": 0.1,
+    "tier": 0.1
+  },
+  "tierBonus": {
+    "tier1": 0.1,
+    "tier2": 0.08,
+    "tier3": 0.06,
+    "tier4": 0.04
+  },
+  "topN": 5
+}

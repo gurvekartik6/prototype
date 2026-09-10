@@ -1,0 +1,13 @@
+{
+  "buildCommand": "npm --prefix frontend run build",
+  "outputDirectory": "frontend/dist",
+  "installCommand": "npm --prefix frontend install",
+  "framework": "vite",
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    {
+      "source": "/((?!api(?:/|$)).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

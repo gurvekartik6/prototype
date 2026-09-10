@@ -1,0 +1,47 @@
+[
+  {
+    "id": "user-demo",
+    "name": "Demo Citizen",
+    "email": "user@jharkhand.gov.demo",
+    "passwordHash": "$2a$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa2Y6Qz5zqK0d7Qq7qQ5qQ5qQ5q",
+    "role": "USER",
+    "phone": "",
+    "civicPoints": 120
+  },
+  {
+    "id": "admin-demo",
+    "name": "Platform Administrator",
+    "email": "admin@jharkhand.gov.demo",
+    "passwordHash": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "role": "ADMIN",
+    "phone": "",
+    "civicPoints": 0
+  },
+  {
+    "id": "dept-demo",
+    "name": "Department Officer",
+    "email": "department@jharkhand.gov.demo",
+    "passwordHash": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "role": "DEPARTMENT",
+    "departmentId": "dep-06",
+    "civicPoints": 0
+  },
+  {
+    "id": "inst-demo",
+    "name": "Institution Coordinator",
+    "email": "institution@jharkhand.gov.demo",
+    "passwordHash": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "role": "INSTITUTION",
+    "institutionId": "tier1-01",
+    "civicPoints": 0
+  },
+  {
+    "id": "industry-demo",
+    "name": "Industry Partner",
+    "email": "industry@jharkhand.gov.demo",
+    "passwordHash": "$2a$10$N9qo8uLOickgx2ZMRZoMyeIjZAgcfl7p92ldGxad68LJZdL17lhWy",
+    "role": "INDUSTRY",
+    "industryId": "ind-01",
+    "civicPoints": 0
+  }
+]

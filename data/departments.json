@@ -1,0 +1,775 @@
+[
+  {
+    "id": "dep-01",
+    "name": "Department of Agriculture, Animal Husbandry & Co-operative",
+    "category": "Agriculture",
+    "responsibilities": [
+      "Farming, livestock, cooperatives"
+    ],
+    "keywords": [
+      "agriculture",
+      "animal",
+      "cooperatives",
+      "department",
+      "farming",
+      "husbandry",
+      "livestock",
+      "operative"
+    ],
+    "expertise": [
+      "Farming, livestock, cooperatives"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-02",
+    "name": "Department of Building Construction",
+    "category": "Infrastructure",
+    "responsibilities": [
+      "Government building projects"
+    ],
+    "keywords": [
+      "building",
+      "construction",
+      "department",
+      "government",
+      "infrastructure",
+      "projects"
+    ],
+    "expertise": [
+      "Government building projects"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-03",
+    "name": "Department of Cabinet Election",
+    "category": "Administration",
+    "responsibilities": [
+      "Election management"
+    ],
+    "keywords": [
+      "administration",
+      "cabinet",
+      "department",
+      "election",
+      "management"
+    ],
+    "expertise": [
+      "Election management"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-04",
+    "name": "Department of Cabinet Secretariat and Vigilance",
+    "category": "Administration",
+    "responsibilities": [
+      "Cabinet coordination, anti-corruption"
+    ],
+    "keywords": [
+      "administration",
+      "anti",
+      "cabinet",
+      "coordination",
+      "corruption",
+      "department",
+      "secretariat",
+      "vigilance"
+    ],
+    "expertise": [
+      "Cabinet coordination, anti-corruption"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-05",
+    "name": "Department of Commercial Taxes",
+    "category": "Finance",
+    "responsibilities": [
+      "State tax collection"
+    ],
+    "keywords": [
+      "collection",
+      "commercial",
+      "department",
+      "finance",
+      "state",
+      "taxes"
+    ],
+    "expertise": [
+      "State tax collection"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-06",
+    "name": "Department of Drinking Water and Sanitation",
+    "category": "Public Health",
+    "responsibilities": [
+      "Water supply, sanitation"
+    ],
+    "keywords": [
+      "department",
+      "drinking",
+      "health",
+      "public",
+      "sanitation",
+      "supply",
+      "water"
+    ],
+    "expertise": [
+      "Water supply, sanitation"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-07",
+    "name": "Department of Energy",
+    "category": "Power",
+    "responsibilities": [
+      "Electricity, power distribution"
+    ],
+    "keywords": [
+      "department",
+      "distribution",
+      "electricity",
+      "energy",
+      "power"
+    ],
+    "expertise": [
+      "Electricity, power distribution"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-08",
+    "name": "Department of Excise and Prohibition",
+    "category": "Revenue",
+    "responsibilities": [
+      "Excise duties, prohibition"
+    ],
+    "keywords": [
+      "department",
+      "duties",
+      "excise",
+      "prohibition",
+      "revenue"
+    ],
+    "expertise": [
+      "Excise duties, prohibition"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-09",
+    "name": "Department of Finance",
+    "category": "Finance",
+    "responsibilities": [
+      "Budget, treasury, financial planning"
+    ],
+    "keywords": [
+      "budget",
+      "department",
+      "finance",
+      "financial",
+      "planning",
+      "treasury"
+    ],
+    "expertise": [
+      "Budget, treasury, financial planning"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-10",
+    "name": "Department of Food, Public Distribution & Consumer Affairs",
+    "category": "Food Security",
+    "responsibilities": [
+      "Ration, consumer protection"
+    ],
+    "keywords": [
+      "affairs",
+      "consumer",
+      "department",
+      "distribution",
+      "food",
+      "protection",
+      "public",
+      "ration",
+      "security"
+    ],
+    "expertise": [
+      "Ration, consumer protection"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-11",
+    "name": "Department of Forest, Environment & Climate Change",
+    "category": "Environment",
+    "responsibilities": [
+      "Forests, wildlife, climate"
+    ],
+    "keywords": [
+      "change",
+      "climate",
+      "department",
+      "environment",
+      "forest",
+      "forests",
+      "wildlife"
+    ],
+    "expertise": [
+      "Forests, wildlife, climate"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-12",
+    "name": "Department of Health, Medical Education & Family Welfare",
+    "category": "Health",
+    "responsibilities": [
+      "Hospitals, medical colleges, family planning"
+    ],
+    "keywords": [
+      "colleges",
+      "department",
+      "education",
+      "family",
+      "health",
+      "hospitals",
+      "medical",
+      "planning",
+      "welfare"
+    ],
+    "expertise": [
+      "Hospitals, medical colleges, family planning"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-13",
+    "name": "Department of Higher and Technical Education",
+    "category": "Education",
+    "responsibilities": [
+      "Universities, technical institutes"
+    ],
+    "keywords": [
+      "department",
+      "education",
+      "higher",
+      "institutes",
+      "technical",
+      "universities"
+    ],
+    "expertise": [
+      "Universities, technical institutes"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-14",
+    "name": "Department of Home, Jail & Disaster Management",
+    "category": "Internal Security",
+    "responsibilities": [
+      "Police, prisons, disaster response"
+    ],
+    "keywords": [
+      "department",
+      "disaster",
+      "home",
+      "internal",
+      "jail",
+      "management",
+      "police",
+      "prisons",
+      "response",
+      "security"
+    ],
+    "expertise": [
+      "Police, prisons, disaster response"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-15",
+    "name": "Department of Industries",
+    "category": "Industry",
+    "responsibilities": [
+      "Industrial development, MSME"
+    ],
+    "keywords": [
+      "department",
+      "development",
+      "industrial",
+      "industries",
+      "industry",
+      "msme"
+    ],
+    "expertise": [
+      "Industrial development, MSME"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-16",
+    "name": "Department of Information & Public Relations",
+    "category": "Communication",
+    "responsibilities": [
+      "Government publicity, media"
+    ],
+    "keywords": [
+      "communication",
+      "department",
+      "government",
+      "information",
+      "media",
+      "public",
+      "publicity",
+      "relations"
+    ],
+    "expertise": [
+      "Government publicity, media"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-17",
+    "name": "Department of Information Technology & e-Governance",
+    "category": "Technology",
+    "responsibilities": [
+      "Digital services, IT infrastructure"
+    ],
+    "keywords": [
+      "department",
+      "digital",
+      "governance",
+      "information",
+      "infrastructure",
+      "services",
+      "technology"
+    ],
+    "expertise": [
+      "Digital services, IT infrastructure"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-18",
+    "name": "Department of Labour, Employment, Training and Skill Development",
+    "category": "Labour",
+    "responsibilities": [
+      "Employment, skill training"
+    ],
+    "keywords": [
+      "department",
+      "development",
+      "employment",
+      "labour",
+      "skill",
+      "training"
+    ],
+    "expertise": [
+      "Employment, skill training"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-19",
+    "name": "Department of Law",
+    "category": "Legal",
+    "responsibilities": [
+      "Legal affairs, legislation"
+    ],
+    "keywords": [
+      "affairs",
+      "department",
+      "legal",
+      "legislation"
+    ],
+    "expertise": [
+      "Legal affairs, legislation"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-20",
+    "name": "Department of Mines & Geology",
+    "category": "Mining",
+    "responsibilities": [
+      "Mineral resources, geology"
+    ],
+    "keywords": [
+      "department",
+      "geology",
+      "mineral",
+      "mines",
+      "mining",
+      "resources"
+    ],
+    "expertise": [
+      "Mineral resources, geology"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-21",
+    "name": "Department of Panchayati Raj",
+    "category": "Rural Governance",
+    "responsibilities": [
+      "Village self-governance"
+    ],
+    "keywords": [
+      "department",
+      "governance",
+      "panchayati",
+      "rural",
+      "self",
+      "village"
+    ],
+    "expertise": [
+      "Village self-governance"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-22",
+    "name": "Department of Parliamentary Affairs",
+    "category": "Administration",
+    "responsibilities": [
+      "Legislative coordination"
+    ],
+    "keywords": [
+      "administration",
+      "affairs",
+      "coordination",
+      "department",
+      "legislative",
+      "parliamentary"
+    ],
+    "expertise": [
+      "Legislative coordination"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-23",
+    "name": "Department of Personnel, Administrative Reforms & Rajbhasha",
+    "category": "HR & Administration",
+    "responsibilities": [
+      "Civil services, administrative reforms"
+    ],
+    "keywords": [
+      "administration",
+      "administrative",
+      "civil",
+      "department",
+      "personnel",
+      "rajbhasha",
+      "reforms",
+      "services"
+    ],
+    "expertise": [
+      "Civil services, administrative reforms"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-24",
+    "name": "Department of Planning & Development",
+    "category": "Planning",
+    "responsibilities": [
+      "State planning, development projects"
+    ],
+    "keywords": [
+      "department",
+      "development",
+      "planning",
+      "projects",
+      "state"
+    ],
+    "expertise": [
+      "State planning, development projects"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-25",
+    "name": "Department of Revenue, Registration & Land Reforms",
+    "category": "Revenue",
+    "responsibilities": [
+      "Land records, registration, revenue"
+    ],
+    "keywords": [
+      "department",
+      "land",
+      "records",
+      "reforms",
+      "registration",
+      "revenue"
+    ],
+    "expertise": [
+      "Land records, registration, revenue"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-26",
+    "name": "Department of Road Construction",
+    "category": "Infrastructure",
+    "responsibilities": [
+      "State highways, roads"
+    ],
+    "keywords": [
+      "construction",
+      "department",
+      "highways",
+      "infrastructure",
+      "road",
+      "roads",
+      "state"
+    ],
+    "expertise": [
+      "State highways, roads"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-27",
+    "name": "Department of Rural Development",
+    "category": "Rural",
+    "responsibilities": [
+      "Rural welfare schemes"
+    ],
+    "keywords": [
+      "department",
+      "development",
+      "rural",
+      "schemes",
+      "welfare"
+    ],
+    "expertise": [
+      "Rural welfare schemes"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-28",
+    "name": "Department of Rural Works",
+    "category": "Rural Infrastructure",
+    "responsibilities": [
+      "Rural construction projects"
+    ],
+    "keywords": [
+      "construction",
+      "department",
+      "infrastructure",
+      "projects",
+      "rural",
+      "works"
+    ],
+    "expertise": [
+      "Rural construction projects"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-29",
+    "name": "Department of Scheduled Tribe, Scheduled Caste, Minority and Backward Class Welfare",
+    "category": "Social Welfare",
+    "responsibilities": [
+      "SC/ST/OBC/minority welfare"
+    ],
+    "keywords": [
+      "backward",
+      "caste",
+      "class",
+      "department",
+      "minority",
+      "scheduled",
+      "social",
+      "tribe",
+      "welfare"
+    ],
+    "expertise": [
+      "SC/ST/OBC/minority welfare"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-30",
+    "name": "Department of School Education & Literacy",
+    "category": "Education",
+    "responsibilities": [
+      "Schools, literacy programs"
+    ],
+    "keywords": [
+      "department",
+      "education",
+      "literacy",
+      "programs",
+      "school",
+      "schools"
+    ],
+    "expertise": [
+      "Schools, literacy programs"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-31",
+    "name": "Department of Tourism, Arts, Culture, Sports & Youth Affairs",
+    "category": "Tourism & Culture",
+    "responsibilities": [
+      "Tourism, sports, youth programs"
+    ],
+    "keywords": [
+      "affairs",
+      "arts",
+      "culture",
+      "department",
+      "programs",
+      "sports",
+      "tourism",
+      "youth"
+    ],
+    "expertise": [
+      "Tourism, sports, youth programs"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-32",
+    "name": "Department of Transport",
+    "category": "Transport",
+    "responsibilities": [
+      "Vehicle registration, transport"
+    ],
+    "keywords": [
+      "department",
+      "registration",
+      "transport",
+      "vehicle"
+    ],
+    "expertise": [
+      "Vehicle registration, transport"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-33",
+    "name": "Department of Urban Development & Housing",
+    "category": "Urban",
+    "responsibilities": [
+      "Cities, housing, urban planning"
+    ],
+    "keywords": [
+      "cities",
+      "department",
+      "development",
+      "housing",
+      "planning",
+      "urban"
+    ],
+    "expertise": [
+      "Cities, housing, urban planning"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-34",
+    "name": "Department of Water Resources",
+    "category": "Water",
+    "responsibilities": [
+      "Irrigation, water management"
+    ],
+    "keywords": [
+      "department",
+      "irrigation",
+      "management",
+      "resources",
+      "water"
+    ],
+    "expertise": [
+      "Irrigation, water management"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-35",
+    "name": "Department of Women, Child Development & Social Security",
+    "category": "Social Welfare",
+    "responsibilities": [
+      "Women & child welfare, social security"
+    ],
+    "keywords": [
+      "child",
+      "department",
+      "development",
+      "security",
+      "social",
+      "welfare",
+      "women"
+    ],
+    "expertise": [
+      "Women & child welfare, social security"
+    ],
+    "districtCoverage": [],
+    "active": true
+  },
+  {
+    "id": "dep-36",
+    "name": "Department of Parliamentary Affairs",
+    "category": "Governance",
+    "responsibilities": [
+      "Legislative affairs"
+    ],
+    "keywords": [
+      "affairs",
+      "department",
+      "governance",
+      "legislative",
+      "parliamentary"
+    ],
+    "expertise": [
+      "Legislative affairs"
+    ],
+    "districtCoverage": [],
+    "active": true
+  }
+]

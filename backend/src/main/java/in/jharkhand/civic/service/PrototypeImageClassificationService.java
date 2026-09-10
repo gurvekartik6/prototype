@@ -1,0 +1,3 @@
+package in.jharkhand.civic.service;
+import org.springframework.stereotype.Service; import in.jharkhand.civic.port.ImageClassificationService; import java.util.*;
+@Service public class PrototypeImageClassificationService implements ImageClassificationService {public Map<String,Object> classify(String filename){String n=filename==null?"":filename.toLowerCase();String cat=n.contains("road")?"Infrastructure":n.contains("water")?"Water":n.contains("crop")||n.contains("farm")?"Agriculture":n.contains("hospital")||n.contains("health")?"Healthcare":"Unknown";return Map.of("detectedObjects",List.of(),"possibleCategory",cat,"confidence",0.35,"notes","Prototype image classification only; no trained ML model is claimed.");}}

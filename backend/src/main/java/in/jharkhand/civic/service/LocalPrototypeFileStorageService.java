@@ -1,0 +1,1 @@
+package in.jharkhand.civic.service; import in.jharkhand.civic.port.FileStorageService; import org.springframework.stereotype.Component; @Component public class LocalPrototypeFileStorageService implements FileStorageService{public String providerName(){return "Local prototype filesystem";}}

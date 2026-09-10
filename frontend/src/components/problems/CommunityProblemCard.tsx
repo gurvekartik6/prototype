@@ -1,0 +1,24 @@
+import { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+import { Heart, MessageCircle, Repeat2, Share2, MapPin, ShieldCheck } from 'lucide-react';
+import { api } from '../../services/api';
+import Badge from '../common/Badge';
+import { useAuth } from '../../context/AuthContext';
+
+export default function CommunityProblemCard({ problem, compact=false }:{problem:any;compact?:boolean}){
+  const {user}=useAuth(); const [summary,setSummary]=useState({likes:0,reposts:0,shares:0,comments:0}); const [comments,setComments]=useState<any[]>([]); const [comment,setComment]=useState(''); const [busy,setBusy]=useState(false); const [notice,setNotice]=useState('');
+  const load=async()=>{try{const [a,b]=await Promise.all([api.get(`/problems/${problem.id}/engagement/summary`),api.get(`/problems/${problem.id}/engagement`)]);setSummary(a.data);setComments((b.data||[]).filter((x:any)=>x.type==='COMMENT').slice(-3).reverse())}catch{}};
+  useEffect(()=>{void load()},[problem.id]);
+  const engage=async(type:string,text='')=>{setBusy(true);setNotice('');try{await api.post(`/problems/${problem.id}/engagement`,{type,text});await load();if(type==='SHARE'){const url=window.location.href;try{await navigator.clipboard.writeText(url);setNotice('Problem link copied.')}catch{setNotice('Problem link ready to share.')}}}catch(e:any){setNotice(e.response?.data?.message||'Could not complete action.')}finally{setBusy(false)}};
+  const submitComment=async()=>{if(!comment.trim())return;await engage('COMMENT',comment);setComment('')};
+  return <article className="card overflow-hidden hover:shadow-lg transition-shadow">
+    <div className="p-5">
+      <div className="flex items-start gap-3"><div className="h-10 w-10 rounded-full bg-jharkhand-100 text-jharkhand-700 grid place-items-center font-black">{String(problem.userName||'C').slice(0,1)}</div><div className="flex-1 min-w-0"><div className="flex items-center gap-2"><span className="font-bold text-sm">{problem.userName||'Community Citizen'}</span>{problem.isDemoData&&<span className="text-[10px] text-slate-400">DEMO</span>}</div><div className="text-xs text-slate-400 mt-0.5">{problem.createdAt?new Date(problem.createdAt).toLocaleDateString():'Recently'} · {problem.location?.district||'Jharkhand'}</div></div><Badge tone={problem.status==='COMPLETED'?'green':problem.status==='PENDING_VALIDATION'?'amber':'blue'}>{String(problem.status||'SUBMITTED').replaceAll('_',' ')}</Badge></div>
+      <Link to={`/problems/${problem.id}`} className="block mt-4"><h2 className="font-black text-xl hover:text-jharkhand-700">{problem.title}</h2><p className={`text-sm text-slate-600 mt-2 leading-6 ${compact?'line-clamp-2':'line-clamp-4'}`}>{problem.description||problem.originalText}</p></Link>
+      <div className="flex flex-wrap gap-2 mt-3"><Badge>{problem.category||'Civic issue'}</Badge><span className="text-xs text-slate-400 inline-flex items-center gap-1"><MapPin size={13}/>{problem.location?.city||problem.location?.district||'Location pending'}</span></div>
+    </div>
+    <div className="border-t border-slate-100 px-4 py-2 flex items-center gap-1 text-sm text-slate-500"><button disabled={busy} onClick={()=>void engage('LIKE')} className="action-btn"><Heart size={17}/>Like <span>{summary.likes}</span></button><button disabled={busy} onClick={()=>document.getElementById(`comment-${problem.id}`)?.focus()} className="action-btn"><MessageCircle size={17}/>Comment <span>{summary.comments}</span></button><button disabled={busy} onClick={()=>void engage('REPOST')} className="action-btn"><Repeat2 size={17}/>Repost <span>{summary.reposts}</span></button><button disabled={busy} onClick={()=>void engage('SHARE')} className="action-btn ml-auto"><Share2 size={17}/>Share <span>{summary.shares}</span></button></div>
+    {(comments.length||!compact)&&<div className="bg-slate-50/70 px-5 py-4 border-t border-slate-100"><div className="text-xs font-bold text-slate-400 uppercase tracking-widest mb-3">Community discussion</div>{comments.map(c=><div key={c.id} className="text-sm mb-3"><span className="font-bold">{c.userId==='user-demo'?'Demo Citizen':'Community member'}</span><span className="text-slate-600"> · {c.text}</span></div>)}<div className="flex gap-2"><input id={`comment-${problem.id}`} value={comment} onChange={e=>setComment(e.target.value)} onKeyDown={e=>{if(e.key==='Enter')void submitComment()}} className="input py-2" placeholder="Add a constructive comment…"/><button onClick={()=>void submitComment()} className="btn btn-primary px-3">Post</button></div>{notice&&<div className="text-xs text-jharkhand-700 mt-2">{notice}</div>}</div>}
+    <div className="px-5 pb-4 text-[11px] text-slate-400 flex items-center gap-1"><ShieldCheck size={13}/> Community engagement is visible to the civic resolution team.</div>
+  </article>
+}

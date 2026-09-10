@@ -1,0 +1,2 @@
+import type { ReactNode } from 'react';
+export default function Badge({children,tone='green'}:{children:ReactNode;tone?:'green'|'blue'|'amber'|'red'|'slate'}){const c={green:'bg-jharkhand-100 text-jharkhand-700',blue:'bg-blue-50 text-blue-700',amber:'bg-amber-50 text-amber-700',red:'bg-red-50 text-red-700',slate:'bg-slate-100 text-slate-600'}[tone];return <span className={`badge ${c}`}>{children}</span>}

@@ -1,0 +1,1 @@
+import{api}from'./api';export const problemService={list:()=>api.get('/problems'),get:(id:string)=>api.get(`/problems/${id}`),analysis:(id:string)=>api.get(`/problems/${id}/analysis`),routing:(id:string)=>api.get(`/problems/${id}/routing`),submit:(fd:FormData)=>api.post('/problems',fd),feedback:(id:string,data:any)=>api.post(`/problems/${id}/feedback`,data)};

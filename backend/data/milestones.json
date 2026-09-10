@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ms-01",
+    "projectId": "project-demo-01",
+    "name": "Research",
+    "description": "Research milestone",
+    "startDate": "2026-08-15",
+    "endDate": "2026-12-31",
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": "ms-02",
+    "projectId": "project-demo-01",
+    "name": "Requirement Analysis",
+    "description": "Requirement Analysis milestone",
+    "startDate": "2026-08-15",
+    "endDate": "2026-12-31",
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": "ms-03",
+    "projectId": "project-demo-01",
+    "name": "Design",
+    "description": "Design milestone",
+    "startDate": "2026-08-15",
+    "endDate": "2026-12-31",
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": "ms-04",
+    "projectId": "project-demo-01",
+    "name": "Prototype",
+    "description": "Prototype milestone",
+    "startDate": "2026-08-15",
+    "endDate": "2026-12-31",
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": "ms-05",
+    "projectId": "project-demo-01",
+    "name": "Internal Testing",
+    "description": "Internal Testing milestone",
+    "startDate": "2026-08-15",
+    "endDate": "2026-12-31",
+    "status": "COMPLETED",
+    "progress": 100
+  },
+  {
+    "id": "ms-06",
+    "projectId": "project-demo-01",
+    "name": "Field Testing",
+    "description": "Field Testing milestone",
+    "startDate": "2026-08-15",
+    "endDate": "2026-12-31",
+    "status": "IN_PROGRESS",
+    "progress": 65
+  },
+  {
+    "id": "ms-07",
+    "projectId": "project-demo-01",
+    "name": "Validation",
+    "description": "Validation milestone",
+    "startDate": "2026-08-15",
+    "endDate": "2026-12-31",
+    "status": "NOT_STARTED",
+    "progress": 0
+  },
+  {
+    "id": "ms-08",
+    "projectId": "project-demo-01",
+    "name": "Deployment",
+    "description": "Deployment milestone",
+    "startDate": "2026-08-15",
+    "endDate": "2026-12-31",
+    "status": "NOT_STARTED",
+    "progress": 0
+  },
+  {
+    "id": "ms-09",
+    "projectId": "project-demo-01",
+    "name": "Impact Measurement",
+    "description": "Impact Measurement milestone",
+    "startDate": "2026-08-15",
+    "endDate": "2026-12-31",
+    "status": "NOT_STARTED",
+    "progress": 0
+  }
+]

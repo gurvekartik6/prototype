@@ -1,0 +1,11 @@
+[
+  {
+    "id": "cp-001",
+    "userId": "user-demo",
+    "projectId": "project-demo-01",
+    "reason": "Verified community contribution",
+    "points": 120,
+    "verified": true,
+    "createdAt": "2026-08-20T10:00:00Z"
+  }
+]

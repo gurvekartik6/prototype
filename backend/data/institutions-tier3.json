@@ -1,0 +1,396 @@
+[
+  {
+    "id": "tier3-01",
+    "name": "Al-kabir Polytechnic, East Singhbhum",
+    "tier": 3,
+    "location": "East Singhbhum",
+    "district": "East Singhbhum",
+    "type": "Higher Education Institution",
+    "description": "Al-kabir Polytechnic, East Singhbhum is a private polytechnic in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-02",
+    "name": "B.A. College of Engineering & Technology, East Singhbhum",
+    "tier": 3,
+    "location": "East Singhbhum",
+    "district": "East Singhbhum",
+    "type": "Higher Education Institution",
+    "description": "B.A. College of Engineering & Technology, East Singhbhum is a private engineering college in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science & Engineering",
+      "Electronics & Communication Engineering"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science & Engineering",
+      "Electronics & Communication Engineering"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-03",
+    "name": "BITT Polytechnic, Ranchi",
+    "tier": 3,
+    "location": "Ranchi",
+    "district": "Ranchi",
+    "type": "Higher Education Institution",
+    "description": "BITT Polytechnic, Ranchi is a private polytechnic in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-04",
+    "name": "Cambridge Institute of Technology, Ranchi",
+    "tier": 3,
+    "location": "Ranchi",
+    "district": "Ranchi",
+    "type": "Higher Education Institution",
+    "description": "Cambridge Institute of Technology, Ranchi is a private engineering college in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science & Engineering",
+      "Electronics & Communication Engineering"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science & Engineering",
+      "Electronics & Communication Engineering"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-05",
+    "name": "Capital University, Koderma",
+    "tier": 3,
+    "location": "Koderma",
+    "district": "Koderma",
+    "type": "Higher Education Institution",
+    "description": "Capital University, Koderma is a private university in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Computer Science & Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Pharmacy",
+      "Management",
+      "Law"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Computer Science & Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Pharmacy",
+      "Management",
+      "Law"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-06",
+    "name": "Chandil Polytechnic, Seraikela-Kharsawan",
+    "tier": 3,
+    "location": "Seraikela-Kharsawan",
+    "district": "Seraikela-Kharsawan",
+    "type": "Higher Education Institution",
+    "description": "Chandil Polytechnic, Seraikela -Kharsawan is a ppp polytechnic in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-07",
+    "name": "Garhwa Polytechnic, Garhwa",
+    "tier": 3,
+    "location": "Garhwa",
+    "district": "Garhwa",
+    "type": "Higher Education Institution",
+    "description": "Garhwa Polytechnic, Garhwa is a ppp polytechnic in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-08",
+    "name": "Gola Polytechnic, Ramgarh",
+    "tier": 3,
+    "location": "Ramgarh",
+    "district": "Ramgarh",
+    "type": "Higher Education Institution",
+    "description": "Gola Polytechnic, Ramgarh is a ppp polytechnic in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT",
+      "Mining Engineering"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT",
+      "Mining Engineering"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-09",
+    "name": "Government Polytechnic Latehar, Latehar",
+    "tier": 3,
+    "location": "Latehar",
+    "district": "Latehar",
+    "type": "Higher Education Institution",
+    "description": "Government Polytechnic Latehar, Latehar is a government polytechnic in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-10",
+    "name": "Government Polytechnic Sahibganj, Sahibganj",
+    "tier": 3,
+    "location": "Sahibganj",
+    "district": "Sahibganj",
+    "type": "Higher Education Institution",
+    "description": "Government Polytechnic Sahibganj, Sahibganj is a government polytechnic in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-11",
+    "name": "Government Polytechnic Simdega, Simdega",
+    "tier": 3,
+    "location": "Simdega",
+    "district": "Simdega",
+    "type": "Higher Education Institution",
+    "description": "Government Polytechnic Simdega, Simdega is a government polytechnic in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-12",
+    "name": "Government Women's Polytechnic Dumka, Dumka",
+    "tier": 3,
+    "location": "Dumka",
+    "district": "Dumka",
+    "type": "Higher Education Institution",
+    "description": "Government Women's Polytechnic Dumka, Dumka is a government polytechnic in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-13",
+    "name": "Gurugovind Singh Educational Society Technical Campus, Bokaro",
+    "tier": 3,
+    "location": "Bokaro",
+    "district": "Bokaro",
+    "type": "Higher Education Institution",
+    "description": "Gurugovind Singh Educational Society Technical Campus, Bokaro is a private engineering college in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science & Engineering",
+      "Electrical & Electronics Engineering"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science & Engineering",
+      "Electrical & Electronics Engineering"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-14",
+    "name": "K.K. Polytechnic, Dhanbad",
+    "tier": 3,
+    "location": "Dhanbad",
+    "district": "Dhanbad",
+    "type": "Higher Education Institution",
+    "description": "K.K. Polytechnic, Dhanbad is a private polytechnic in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT",
+      "Mining Engineering"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science / IT",
+      "Mining Engineering"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-15",
+    "name": "Maryland Institute of Technology and Management, East Singhbhum",
+    "tier": 3,
+    "location": "East Singhbhum",
+    "district": "East Singhbhum",
+    "type": "Higher Education Institution",
+    "description": "Maryland Institute of Technology and Management, East Singhbhum is a private engineering college in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science & Engineering",
+      "Electronics & Communication Engineering"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science & Engineering",
+      "Electronics & Communication Engineering"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  },
+  {
+    "id": "tier3-16",
+    "name": "Netaji Subhas University, East Singhbhum",
+    "tier": 3,
+    "location": "East Singhbhum",
+    "district": "East Singhbhum",
+    "type": "Higher Education Institution",
+    "description": "Netaji Subhas University, East Singhbhum is a private university in Jharkhand. Its relevant academic capability is aligned with practical technical and societal problems that can be routed through the listed departments.",
+    "expertise": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science & Engineering",
+      "Information Technology",
+      "Management",
+      "Education",
+      "Health Sciences"
+    ],
+    "researchCapabilities": [
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Computer Science & Engineering",
+      "Information Technology",
+      "Management",
+      "Education",
+      "Health Sciences"
+    ],
+    "active": true,
+    "capacity": "MEDIUM"
+  }
+]

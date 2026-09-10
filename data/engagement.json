@@ -1,0 +1,6 @@
+[
+  {"id":"eng-1","problemId":"demo-water","userId":"user-demo","type":"LIKE","createdAt":"2026-09-09T10:10:00Z"},
+  {"id":"eng-2","problemId":"demo-water","userId":"admin-demo","type":"COMMENT","text":"The issue is in the district water-quality workflow and needs field verification.","createdAt":"2026-09-09T11:00:00Z"},
+  {"id":"eng-3","problemId":"demo-road","userId":"user-demo","type":"LIKE","createdAt":"2026-09-09T12:00:00Z"},
+  {"id":"eng-4","problemId":"demo-agri","userId":"user-demo","type":"REPOST","createdAt":"2026-09-09T12:30:00Z"}
+]
